@@ -3,9 +3,9 @@
   <div class="row">
 
     <div class="col-xs-10 col-md-4">
-       <h3 style="margin-left:30px;"> <b>Dr. Ramesh Thakur</b></h3>
+       <h3 style="margin-left:30px;"> <b>Dr.Shailvi Verma</b></h3>
           <br/>
-          <center><img class = "img-thumb" src="./images/Ramesh Thakur.jpg" /></center>
+          <center><img class = "img-thumb" src="./images/Shailvi Verma.jpg" /></center>
         </div>
 
     <div class="col-xs-4 col-md-7">
@@ -14,41 +14,41 @@
       <tr>  
         <td><b>Qualification</b> </td>
         <td id="height"> 
-        <td>Ph.D, M.E.(Comp. Eng.)</td>
+        <td>M.Sc.(IT)</td>
       </td>
     </tr>
       <tr> 
          <td    ><b>Designation</b></td>
          <td id="height"> 
-        <td      >Professor & Head</td>
+        <td      >Lecturer</td>
       </tr>
         <tr> 
         <td    ><b>Specialization</b></td>
           <td id="height"    > 
-        <td    >Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
+        <td    >-</td>
       </tr>
        
         <tr>
-          <td      ><b>Industry_Experience</b></td>
+          <td      ><b>Experience</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" > Three Year in Impetus Infotech.</td>
+          <td       colspan="2" > -</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
+          <td       colspan="2" > -</td>
         </tr> 
         <tr>
           <td      ><b>E-Mail id</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" ><a href="mailto:sanjay_tanwani@hotmail.com">sanjay_tanwani@hotmail.com</a> </td>
+          <td       colspan="2" ><a href="mailto:#">-</a> </td>
         </tr>   
          
           
         <tr>
           <td      ><b>Detailed Resume</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" >  <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Sanjay_Tanwani.pdf" >Click here...</a> </td>
+          <td       colspan="2" >  <a href="#" >Click here...</a> </td>
         </tr>  
       </table>
 
@@ -92,10 +92,7 @@
 
       <div id="membership" class="answer_list" >
   <pre>
-* Engineering Graduate in Computer Engineering in 1999.</br> 
-* Associate Member of Institution of Engineers.</br>
-* received Bachelor degree in English Literature in 1995 . </br>
-* completed P.G.D.C.A</br>
+* Memberships</br>
 </pre>
       </div>
 
