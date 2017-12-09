@@ -93,7 +93,7 @@
 
       <div id="membership" class="answer_list table-responsive">
   <table class="table table-striped">
-<tr>><td>1.</td><td>Member of Editorial Board of Indore Manager, the Peer Reviewed Monthly Journal of Indore Management Assocaition. ISSN 2278 - 7852</td></tr>
+<tr><td>1.</td><td>Member of Editorial Board of Indore Manager, the Peer Reviewed Monthly Journal of Indore Management Assocaition. ISSN 2278 - 7852</td></tr>
 </table>
       </div>
 
@@ -122,11 +122,11 @@
 
          <div id="project" class="answer_list" >
    <table class="table table-striped">  
-<tr>><td>1.</td><td>Developed a Sustainable Business Model for Vegetable Hawkers in Indore</td></tr>
+<tr><td>1.</td><td>Developed a Sustainable Business Model for Vegetable Hawkers in Indore</td></tr>
 </table>
       </div>
 
-         <div id="presentation"  class="answer_list" style="height:200px; overflow-y: scroll;" >
+         <div id="presentation"  class="answer_list" style="height:300px; overflow-y: scroll;" >
    <table class="table table-striped"> 
     <tr><td>1.</td>
       <td>
@@ -269,7 +269,7 @@
   </td></tr>  
   </table>  </div>
 
-         <div id="publication" class="answer_list "  style="height:200px; overflow-y: scroll;">
+         <div id="publication" class="answer_list "  style="height:300px; overflow-y: scroll;">
   <table class="table table-striped">
   
     <tr><td>1.</td><td>The Relationship between Stock Index and exchange rate: Empirical Evidencebased on Indian Stock Markets</td><td>March, 2002</td></tr>

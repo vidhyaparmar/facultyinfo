@@ -25,7 +25,7 @@
         <tr> 
         <td    ><b>Specialization</b></td>
           <td id="height"    > 
-        <td >Analysis and Design of Algorithm,DCO</td>
+        <td >Analysis and Design of Algorithm,Network Security</td>
       </tr>
        
         <tr>
@@ -94,49 +94,50 @@
  <table class="table table-striped">
    <thead>
       <tr>
+        <th>S.NO.</th>
         <th>Membership No.</th>
         <th>Membership Name</th>
         
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr><td>1.</td>
         <td>M-1562422</td>
         <td>Member of Institution of Engineers India -IE(India) </td>
         
       </tr>
-      <tr>
+      <tr><td>2.</td>
         <td>L/0625</td>
         <td> Life member -Cryptology Research Society of India</td>
         
       </tr>
-      <tr>
+      <tr><td>3.</td>
         <td>01126988.</td>
         <td> Life member of Computer Society of  India</td>
        
       </tr>
-      <tr>
+      <tr><td>4.</td>
         <td>45875 </td>
         <td> Life member of Indian Society of Technical Education</td>
         <tr/> 
-    <tr>
+    <tr><td>5.</td>
       <td>5005437</td>
       <td>Member -Association of Computing Machinery</td>
     </tr>
-   <tr><td>90902442</td>
+   <tr><td>6.</td><td>90902442</td>
     <td> Member of IEEE</td>
     </tr> 
-    <tr>
+    <tr><td>7.</td>
       <td>90902442</td>
       <td>
       Member of IEEE Computer Society-India
      </td> 
    </tr>
-   <tr>
+   <tr><td>8.</td>
     <td>-</td>
     <td>Life Member of Vigyan Bharti : Since 2013</td>
   </tr>
-  <tr>
+  <tr><td>9.</td>
     <td>-</td><td>
     Member Executive Council IEEE Computer Society
   </td></tr>
@@ -145,27 +146,23 @@
       </div>
 
      <div id="research" class="answer_list" >
-  <pre>
-* Researches
-</pre>
+  <table class="table table-striped">
+     <tr><td> No Research To Show</td></tr></table>
       </div>
 
          <div id="responsibility" class="answer_list" >
-  <pre>
-* Responsibilty
-</pre>
+  <table class="table table-striped">
+     <tr><td> No Responsibility To Show</td></tr></table>
       </div>
 
          <div id="project" class="answer_list" >
-  <pre>
-* Projects
-</pre>
+  <table class="table table-striped">
+     <tr><td> No Project To Show</td></tr></table>
       </div>
 
          <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
+  <table class="table table-striped">
+     <tr><td> No Presentation To Show</td></tr></table>
       </div>
 
          <div id="publication" class="answer_list" >
@@ -191,7 +188,7 @@
  
            <tr><td>2.</td>
                <td> 2012</td>
-               <td>nternational Journal of Computer & Communication Technology (IJCCT) ISSN (ONLINE): 2231 - 0371 ISSN (PRINT): 0975 –7449 Vol-3,
+               <td>International Journal of Computer & Communication Technology (IJCCT) ISSN (ONLINE): 2231 - 0371 ISSN (PRINT): 0975 –7449 Vol-3,
             Iss-3,54 </td> 
                <td> A Novel Approach For Information Security With Automatic Variable Key Using Fibonacci Q-Matrix .
                </td>

@@ -92,18 +92,39 @@
     <br/>
 
       <div id="membership" class="answer_list table-responsive">
-      <pre>-</pre>
+     <table class="table table-striped">
+      <tr><td>No Membership To Show</td></tr></table>
       </div>
 
      <div id="research" class="answer_list" >
-        <table class="table table-striped">
+        
+            
+      </div>
+
+         <div id="responsibility" class="answer_list" >
+         <table class="table table-striped">
+     <tr><td>Batch Faciliator</td></tr> </table>
+         </div>
+
+         <div id="project" class="answer_list" >
+  <table class="table table-striped">
+      <tr><td>No Projct To Show</td></tr></table>
+      </div>
+
+         <div id="presentation"  class="answer_list" >
+  <table class="table table-striped">
+      <tr><td>No Presentation To Show</td></tr></table>
+      </div>
+
+         <div id="publication" class="answer_list" >
+  <table class="table table-striped" style="height:400px; overflow-y: scroll;">
            <caption>International Publications</caption>
           <thead>
             <tr>
               <th>S.No.</th>
               <th>Published Date </th>
               <th>Research  </th>
-              <th>Topic</th>
+              <th>Title</th>
         
             </tr>
             </thead>
@@ -131,14 +152,14 @@
         </table>
 
 
-        <table class="table table-striped">
+        <table class="table table-striped" style="height:400px; overflow-y: scroll;">
            <caption>National Publications</caption>
           <thead>
             <tr>
               <th>S.No.</th>
               <th>Published Date </th>
               <th>Research  </th>
-              <th>Topic</th>
+              <th>Title</th>
         
             </tr>
             </thead>
@@ -170,27 +191,6 @@
             </tr>
           </tbody>
         </table>
-            
-      </div>
-
-         <div id="responsibility" class="answer_list" >
-          <pre>Batch Facilitator</pre>
-         </div>
-
-         <div id="project" class="answer_list" >
-  <pre>-</pre>
-      </div>
-
-         <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
-      </div>
-
-         <div id="publication" class="answer_list" >
-  <pre>
-* Publications
-</pre>
       </div>
 
 

@@ -35,7 +35,7 @@
         <tr>
           <td valign="top"><b>Phone</b></td>
            <td id="height" ></td>
-          <td colspan="2" >-</td>
+          <td colspan="2" >+919826656519</td>
         </tr> 
         <tr>
           <td><b>E-Mail id</b></td>
@@ -89,11 +89,13 @@
     <br/>
 
       <div id="membership" class="answer_list table-responsive">
-      <pre>-</pre>
+      <table class="table table-striped">
+      No Membership To Show</table>
       </div>
 
      <div id="research" class="answer_list" >
-        <pre>-</pre>
+         <table class="table table-striped">
+      No Research To Show</table>
       </div>
 
          <div id="responsibility" class="answer_list" >
@@ -102,16 +104,16 @@
           
            
             <tr><td>1.</td><td> In-Charge Placement (Computers) and Electronics Lab.</td></tr>
-                <tr><td> Batch facilitator of M.Tech and MCA IX semester</td></tr>
-                <tr> <td> Part of discipline team</td></tr>
+                <tr><td>2.</td><td> Batch facilitator of M.Tech and MCA IX semester</td></tr>
+                <tr> <td>3.</td><td> Part of discipline team</td></tr>
             
            </table>
            <table class="table table-striped">
            <caption>Various Responsibilities from University </caption>
           
           
-            <tr><td>2.</td><td>  OSD (Officer on Special Duty) from 19-July 2011 to till date.</td></tr>
-           <tr> <td> Appointed as external examiner in a various DAVV’s Affiliated Colleges</td></tr>
+            <tr><td>1.</td><td>  OSD (Officer on Special Duty) from 19-July 2011 to till date.</td></tr>
+           <tr> <td>2.</td><td> Appointed as external examiner in a various DAVV’s Affiliated Colleges</td></tr>
         
            </table>
               
@@ -165,11 +167,13 @@
       </div>
 
          <div id="presentation"  class="answer_list" >
-      <pre>* Presentations</pre>
+      <table class="table table-striped">
+      No Presentation To Show</table>
       </div>
 
          <div id="publication" class="answer_list" >
-  <pre>* Publications</pre>
+  <table class="table table-striped">
+      No Publication To Show</table>
       </div>
 
       </div>

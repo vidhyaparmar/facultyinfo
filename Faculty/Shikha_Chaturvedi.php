@@ -90,39 +90,33 @@
     <br/>
 
       <div id="membership" class="answer_list table-responsive">
-     <pre>
-* Memberships
-</pre>
+     <table class="table table-striped">
+      No Membership To Show</table>
       </div>
 
      <div id="research" class="answer_list" >
-      <pre>
-* Research
-</pre>  
+      <table class="table table-striped">
+      No Research To Show</table>
       </div>
 
          <div id="responsibility" class="answer_list" >
-         <pre>
-* Resposibility
-<pre>
+         <table class="table table-striped">
+      No Responsibility To Show</table>
          </div>
 
          <div id="project" class="answer_list" >
-  </pre>
-* Projects
-</pre>
+  <table class="table table-striped">
+      No Project To Show</table>
       </div>
 
          <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
+ <table class="table table-striped">
+      No Presentation To Show</table>
       </div>
 
          <div id="publication" class="answer_list" >
-  <pre>
-* Publications
-</pre>
+  <table class="table table-striped">
+      No Publication To Show</table>
       </div>
 
 

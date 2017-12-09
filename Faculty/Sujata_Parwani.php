@@ -31,7 +31,7 @@
         <tr>
           <td      ><b>Experience</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" >12 Years</td>
+          <td       colspan="2" >-</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
@@ -65,7 +65,7 @@
       </div>
       
       <div class="btn-group text-center">
-          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Research Projects </a></button>
+          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Research</a></button>
             
       </div>
       <div class="btn-group text-center ">
@@ -90,39 +90,39 @@
     <br/>
 
       <div id="membership" class="answer_list table-responsive">
-     <pre>
-* Memberships
-</pre>
+     <table class="table table-striped">
+<tr><td>No Membership To Show</td></tr>
+</table>
       </div>
 
      <div id="research" class="answer_list" >
-      <pre>
-* Research
-</pre>  
+      <table class="table table-striped">
+<tr><td>No Research To Show</td></tr>
+</table> 
       </div>
 
          <div id="responsibility" class="answer_list" >
-         <pre>
-* Resposibility
-/<pre>
+         <table class="table table-striped">
+<tr><td>Batch Facilitator</td></tr>
+</table>
          </div>
 
          <div id="project" class="answer_list" >
-  <pre>
-* Projects
-</pre>
+  <table class="table table-striped">
+<tr><td>No Project To Show</td></tr>
+</table>
       </div>
 
          <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
+ <table class="table table-striped">
+<tr><td>No Presentation To Show</td></tr>
+</table>
       </div>
 
          <div id="publication" class="answer_list" >
-  <pre>
-* Publications
-</pre>
+  <table class="table table-striped">
+<tr><td>No Publication To Show</td></tr>
+</table>
       </div>
 
 

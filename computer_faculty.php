@@ -60,12 +60,12 @@
  	      		 </div>
 			</div>
 
-			<div class="col-xs-6 col-sm-4 col-md-3">
+              <div class="col-xs-6 col-sm-4 col-md-3">
     			<div class="col-xs-7">
-    				<a href="#" onclick="profile('<?php echo 'Shailvi_Verma';?>')">
-		<img class="img-circle img-responsive" src="./images/Shailvi Verma.jpg">
-            		<h5 style="text-align:center"><b>Ms. Shailvi Verma</b></h5>
- 	      		 </a>
+    				<a href="#" onclick="profile('<?php echo 'Pradeep_Jatav';?>')">
+		<img class="img-circle img-responsive" src="./images/Pradeep Jatav.jpg">
+            		<h5 style="text-align:center"><b>Mr. Pradeep Jatav</b></h5>
+            	</a>
  	      		 </div>
 			</div>
 
@@ -132,23 +132,9 @@
  	      		 </div>
 			</div>
 
-			<div class="col-xs-6 col-sm-4 col-md-3">
-    			<div class="col-xs-7">
-    				<a href="#" onclick="profile('<?php echo 'Shraddha_Soni';?>')">
-		<img class="img-circle img-responsive" src="./images/Shraddha Soni.jpg">
-            		<h5 style="text-align:center"><b>Ms. Shraddha Soni</b></h5>
-    			</a>
- 	      		 </div>
-			</div>
+			
 
-			<div class="col-xs-6 col-sm-4 col-md-3">
-    			<div class="col-xs-7">
-    				<a href="#" onclick="profile('<?php echo 'Kirti_Vijayawargiya';?>')">
-		<img class="img-circle img-responsive" src="./images/Kirti Vijaywargiya.jpg">
-            		<h5 style="text-align:center"><b>Ms. Kirti Vijaywargiya</b></h5>
-            	</a>
- 	      		 </div>
-			</div>
+			
 
 			<div class="col-xs-6 col-sm-4 col-md-3">
     			<div class="col-xs-7">
@@ -158,19 +144,10 @@
             	</a>
  	      		 </div>
 			</div>
+			
 
       </div>
 
-	<div class="row" "padding-left:20px">
-      	<div class="col-xs-6 col-sm-4 col-md-3">
-    			<div class="col-xs-7">
-    				<a href="#" onclick="profile('<?php echo 'Pradeep_Jatav';?>')">
-		<img class="img-circle img-responsive" src="./images/Pradeep Jatav.jpg">
-            		<h5 style="text-align:center"><b>Mr. Pradeep Jatav</b></h5>
-            	</a>
- 	      		 </div>
-			</div>
-
-		</div>
+	
 
  <script src="./js/faculty_profile.js"></script>

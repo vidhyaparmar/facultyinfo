@@ -96,25 +96,24 @@
 </tr> 
 <tr>
   <td>2.</td>
-  <td>Member of Computer Science Teachers Association(CSTA), New York</td>
+  <td>Member of Computer Science Teachers Association(CSTA), New York.</td>
 </tr>
 <tr>
   <td>3.</td>
-  <td>Member of Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (ICST), Belgium</td>
+  <td>Member of Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (ICST), Belgium.</td>
 </tr> 
 </table>
       </div>
 
      <div id="research" class="answer_list" >
-  <pre>
-* Researches
+  <table class="table table-striped">
+     <tr><td> No Research To Show</td></tr></table>
 </pre>
       </div>
 
          <div id="responsibility" class="answer_list" >
-  <pre>
-*   Batch Facilitator
-</pre>
+  <table class="table table-striped">
+     <tr><td>Batch Facilitator</td></tr></table>
       </div>
 
          <div id="project" class="answer_list" >
@@ -163,7 +162,7 @@
 </table>
 
 <table class="table table-striped">
-   <caption> Software Developed for the Institute </caption>
+   <caption>Software Developed for the Institute </caption>
    <thead>
 
       <tr>
@@ -224,9 +223,8 @@
       </div>
 
          <div id="publication" class="answer_list" >
-  <pre>
-* Publications
-</pre>
+ <table class="table table-striped">
+     <tr><td> No Publication To Show</td></tr></table>
       </div>
 
 

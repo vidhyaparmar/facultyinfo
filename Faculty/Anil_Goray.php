@@ -14,24 +14,24 @@
       <tr>  
         <td><b>Qualification</b> </td>
         <td id="height"> 
-        <td>Ph.D, M.E.(Comp. Eng.)</td>
+        <td>B.Sc, PGDBA, MBA, LLB(Hons),Ph.D. </td>
       </td>
     </tr>
       <tr> 
-         <td    ><b>Designation</b></td>
+         <td ><b>Designation</b></td>
          <td id="height"> 
-        <td>Senior .Asst. Prof. I.I.P.S. D.A.V.V.,</td>
+        <td>Lecturer</td>
       </tr>
         <tr> 
         <td    ><b>Specialization</b></td>
-          <td id="height"    > 
-        <td    >Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
+          <td id="height"> 
+        <td  >-</td>
       </tr>
         
         <tr>
-          <td      ><b>Industry_Experience</b></td>
+          <td      ><b>Experience</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" > Three Year in Impetus Infotech.</td>
+          <td       colspan="2" >More than 18 Years</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
@@ -90,19 +90,12 @@
 
       <div id="membership" class="answer_list table-responsive">
   <table class="table table-striped">
-<tr><td> Engineering Graduate in Computer Engineering in 1999.</td>
-  <td>1234</td></tr> 
-<tr><td> Associate Member of Institution of Engineers.</td>
-<td>1245</td></tr>
-<tr><td>* received Bachelor degree in English Literature in 1995 .</td>
-<td>457</td></tr> 
-<tr><td>completed P.G.D.C.A</td>
-<td>424</td></tr> 
+<tr><td>No Membership To Show</td></tr> 
 </table>
       </div>
 
      <div id="research" class="answer_list" >
-  <pre>
+  
  <table class="table table-striped">
 <tr><td>Pursing Ph.D. in Management from School of Future Studies and Planning,
 D.A.V.V., Indore., Research title “Corporate Branching as business strategies in
@@ -115,29 +108,29 @@ D.A.V.V., Indore, I.I.P.S., D.A.V.V., Indore (M.P.).</td>
 <td>1</td></tr>
 
 </table>
-</pre>
+
       </div>
 
          <div id="responsibility" class="answer_list" >
-  <pre>
-* Responsibilty
-</pre>
+    <table class="table table-striped">
+<tr><td>No Responsibility To Show</td></tr> 
+</table>
       </div>
 
          <div id="project" class="answer_list" >
-  <pre>
-* Projects
-</pre>
+    <table class="table table-striped">
+<tr><td>No Project To Show</td></tr> 
+</table>
       </div>
 
          <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
+    <table class="table table-striped">
+<tr><td>No Presentation To Show</td></tr> 
+</table>
       </div>
 
          <div id="publication" class="answer_list" >
-  <pre>
+  
     <table class="table table-striped">
 <tr><td>“Life Cycle Stages and Personal Socioeconomic Behaviour” International
 Conference – Prestige Institute of Management.</td>
@@ -154,7 +147,7 @@ retail Business of India – 65 th All India Commerce Conference –
 Mumbai University –Mumbai</td>
 <td>Nov. 9-11, 2012</td></tr> 
 </table>
-</pre>
+
       </div>
 
 

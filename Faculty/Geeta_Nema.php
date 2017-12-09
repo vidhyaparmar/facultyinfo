@@ -120,14 +120,13 @@
 
          <div id="project" class="answer_list" >
    <table class="table table-striped">
-No Projects to show
-</table>
+     <tr><td> No Project To Show</td></tr></table>
       </div>
 
          <div id="presentation"  class="answer_list" >
    <table class="table table-striped ">
             <caption>
-              Dr.Geeta Sharma has paticipated in following Refresher courses, Workshops, Seminars :             
+              Dr.Geeta Neema has paticipated in following Refresher courses, Workshops, Seminars :             
             </caption>
             <tr><td>1.</td>   <td> Conducted 2 days workshop on” Entrepreneurship teaching skills” for the college teachers  on 30-31 August 2007.</td></tr> 
             <tr><td>2.</td>   <td>Attended workshop on “Case method Of Teaching” at IIPS on 4th January 2008. </td></tr> 

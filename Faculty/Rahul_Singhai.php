@@ -170,15 +170,13 @@
       </div>
 
          <div id="responsibility" class="answer_list" >
-  <pre>
-* Batch Facilitator
-</pre>
+  <table class="table table-striped">
+      No Publication To Show</table>
       </div>
 
          <div id="project" class="answer_list" >
-  <pre>
-* Projects
-</pre>
+   <table class="table table-striped">
+      No Publication To Show</table>
       </div>
 
          <div id="presentation"  class="answer_list" >

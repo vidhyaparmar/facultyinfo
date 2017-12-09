@@ -36,7 +36,7 @@
         <tr>
           <td valign="top"><b>Phone</b></td>
            <td id="height" ></td>
-          <td  colspan="2" > -</td>
+          <td  colspan="2" >+919301989006</td>
         </tr> 
         <tr>
           <td ><b>E-Mail id</b></td>
@@ -91,18 +91,16 @@
       </br>
 
       <div id="membership" class="answer_list" >
-  <pre>
-* Membership
-</pre>
+  <table class="table table-striped">
+      No Membership To Show</table>
       </div>
 
      <div id="research" class="answer_list" >
-  <pre>
-* Researches
-</pre>
+  <table class="table table-striped">
+      No Research To Show</table>
       </div>
 
-         <div id="responsibility" class="answer_list" >
+         <div id="responsibility" class="answer_list"  style="height:400px; overflow-y: scroll;" >
   <table class="table table-striped ">
             <tr><td>1.</td>   <td> Conducting class sessions for Data mining & Warehousing, Theory of Computation, Compiler Design, Discrete  Mathematical  Structures, Internet & Web Technology,
              Data Structures, Programming using C, Database  Management System, UNIX  Operating System.</td></tr> 
@@ -118,12 +116,11 @@
       </div>
 
          <div id="project" class="answer_list" >
-  <pre>
-* Projects
-</pre>
+  <table class="table table-striped">
+      No Project To Show</table>
       </div>
 
-         <div id="presentation"  class="answer_list" >
+         <div id="presentation"  class="answer_list"  style="height:400px; overflow-y: scroll;">
   <table class="table table-striped ">
             <caption>
               Dr.Yasmin Shaikh has paticipated in following Refresher courses, Workshops, Seminars :             
@@ -140,7 +137,7 @@
       </table>
       </div>
 
-         <div id="publication" class="answer_list" >
+         <div id="publication" class="answer_list" style="height:400px; overflow-y: scroll;">
   <table class="table table-striped">
            <caption>International Publications</caption>
           <thead>
@@ -148,7 +145,7 @@
               <th>S.No.</th>
               <th>Published Date </th>
               <th>Research  </th>
-              <th>Topic</th>
+              <th>Title</th>
         
             </tr>
             </thead>
@@ -172,14 +169,14 @@
         </table>
 
 
-        <table class="table table-striped">
+        <table class="table table-striped"  >
            <caption>National Publications</caption>
           <thead>
             <tr>
               <th>S.No.</th>
               <th>Published Date </th>
               <th>Research  </th>
-              <th>Topic</th>
+              <th>Title</th>
         
             </tr>
             </thead>

@@ -187,29 +187,7 @@
  	      		 </div>
 			</div>
 
-	       
-			<div class="col-xs-3">
-    			<div class="col-xs-7">
-    				<a href="#" onclick="profile('<?php echo 'Nirmala_Sawan';?>')">
-		<img class="img-circle img-responsive" src="./images/Nirmla Sawan.jpg">
-            		<h5 style="text-align:center"><b>Dr. Nirmla Sawan</b></h5>
-    				</a>
- 	      		 </div>
-			</div>
-      </div>
-
-	  
-	  <div class="row" "padding-left:20px">
-			<div class="col-xs-3">
-    			<div class="col-xs-7">
-    				<a href="#" onclick="profile('<?php echo 'Shilpa_Bagdare';?>')">
-		<img class="img-circle img-responsive" src="./images/Shilpa Bagdare.jpg">
-            		<h5 style="text-align:center"><b>Dr. Shilpa Bagdare</b></h5>
-            		</a>
- 	      		 </div>
-			</div>
-
-			<div class="col-xs-3">
+	       			<div class="col-xs-3">
     			<div class="col-xs-7">
     				<a href="#" onclick="profile('<?php echo 'Navneet_Bhatia';?>')">
 		<img class="img-circle img-responsive" src="./images/Navneet Bhatia.jpg">
@@ -217,6 +195,14 @@
 					</a>    
  	      		 </div>
 			</div>
+			
+      </div>
+
+	  
+	  <div class="row" "padding-left:20px">
+			
+
+
 
 			<div class="col-xs-3">
     			<div class="col-xs-7">
@@ -236,10 +222,6 @@
     				</a>
  	      		 </div>
 			</div>
-      </div>
-
-
-<div class="row" "padding-left:20px">
 			<div class="col-xs-3">
     			<div class="col-xs-7">
     				<a href="#" onclick="profile('<?php echo 'Shikha_Chaturvedi';?>')">
@@ -257,6 +239,11 @@
 					</a>    
  	      		 </div>
 			</div>
+      </div>
+
+
+<div class="row" "padding-left:20px">
+			
 
 			<div class="col-xs-3">
     			<div class="col-xs-7">
@@ -278,16 +265,7 @@
 			</div>
       </div>
 
-	  <div class="row" "padding-left:20px">
-			<div class="col-xs-3">
-    			<div class="col-xs-7">
-    				<a href="#" onclick="profile('<?php echo 'Jyoti_Jain';?>')">
-		<img class="img-circle img-responsive" src="./images/Jyoti Jain.jpg">
-            		<h5 style="text-align:center"><b>Dr. Jyoti Jain</b></h5>
-            		</a>
- 	      		 </div>
-			</div>
-			</div>
+
 
 
 

@@ -28,9 +28,9 @@
         <td >- </td>
       </tr>
          <tr>
-          <td ><b>Industry_Experience</b></td>
+          <td ><b>Experience</b></td>
            <td id="height" ></td>
-          <td  colspan="2" > -.</td>
+          <td  colspan="2" > 10 Years</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
@@ -108,7 +108,7 @@
 </table>
       </div>
 
-     <div id="research" class="answer_list" >
+     <div id="research" class="answer_list" style="height:400px; overflow-y: scroll;" >
           <table class="table table-striped">
            <caption> Papers Presented in Conferences</caption>
           <thead>
@@ -178,7 +178,8 @@
         </div>
 
          <div id="responsibility" class="answer_list" >
-          <pre>Batch Facilitator</pre>
+          <table class="table table-striped">
+      <tr><td>Batch Facilitator</td></tr></table>
          </div>
 
          <div id="project" class="answer_list" >
@@ -220,7 +221,7 @@
 
          <div id="publication" class="answer_list" >
  <table class="table table-striped">
-           <caption>  Paper Published in Journal</caption>
+           <caption>Paper Published in Journal</caption>
           <thead>
             <tr>
               <th>S.No.</th>

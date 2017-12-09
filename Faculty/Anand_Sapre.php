@@ -14,13 +14,13 @@
       <tr>  
         <td><b>Qualification</b> </td>
         <td id="height"> 
-        <td>Ph.D.(Management)<br/>MBA<br/>B.E.(Electrical Engineering)</td>
+        <td>Ph.D.(Management),MBA,B.E.(Electrical Engineering)</td>
       </td>
     </tr>
       <tr> 
          <td    ><b>Designation</b></td>
          <td id="height"> 
-        <td> Professor and  Former Director  of  IIPS-DAVV </td>
+        <td> Professor and Former Director  of  IIPS-DAVV </td>
       </tr>
         <tr> 
         <td    ><b>Specialization</b></td>
@@ -28,9 +28,9 @@
         <td>Management</td>
       </tr>
         <tr>
-          <td    ><b>Current Subjects</b></td>
+          <td  ><b>Current Subjects</b></td>
           <td id="height"    ></td>
-          <td>Marketing Decisions<br/>Sales and Distributions<br/>Strategies and Modeling</td>
+          <td>Marketing Decisions,Sales and Distributions,Strategies and Modeling</td>
         </tr> 
 
         <tr>
@@ -99,13 +99,13 @@ Honorary Director on the Board of M/S Indo Power Cables Ltd. Ahemdabad</td>
       <div id="membership" class="answer_list table-responsive">
   <table class="table table-striped">
 <tr><td>1.</td><td> Confederation of Indian Industry</td></tr> 
-<tr>><td>2.</td><td> AIMA</td></tr>
-<tr>><td>3.</td><td>Indore Management Association</td></tr> 
-<tr>><td>4.</td><td>Member of various committees at Department as well as University level, DAVV, Indore</td></tr> 
-<tr>><td>5.</td><td>Faculty of Management Studies, DAVV, Indore</td></tr>
-<tr>><td>6.</td><td>National Entrepreneurship Network, India</td></tr>
-<tr>><td>7.</td><td>University Proctorial Board, DAVV, Indore</td></tr>
-<tr>><td>8.</td><td>AIMS International</td></tr>
+<tr><td>2.</td><td> AIMA</td></tr>
+<tr><td>3.</td><td>Indore Management Association</td></tr> 
+<tr><td>4.</td><td>Member of various committees at Department as well as University level, DAVV, Indore</td></tr> 
+<tr><td>5.</td><td>Faculty of Management Studies, DAVV, Indore</td></tr>
+<tr><td>6.</td><td>National Entrepreneurship Network, India</td></tr>
+<tr><td>7.</td><td>University Proctorial Board, DAVV, Indore</td></tr>
+<tr><td>8.</td><td>AIMS International</td></tr>
 </table>
       </div>
 
@@ -117,13 +117,13 @@ No Researches to show
 
          <div id="responsibility" class="answer_list" >
    <table class="table table-striped">
-<tr>><td>1.</td><td>MBA(DE) Education Institute of Management Studies, DAVV, Indore</td>
+<tr><td>1.</td><td>MBA(DE) Education Institute of Management Studies, DAVV, Indore</td>
   <td>Head</td></tr> 
-<tr>><td>2.</td><td>Sanghvi Inst of Mgt Studies,Indore</td>
+<tr><td>2.</td><td>Sanghvi Inst of Mgt Studies,Indore</td>
 <td>Dean</td></tr>
-<tr>><td>3.</td><td>FMS, Acropolis Inst of Tech & Research, Indore</td>
+<tr><td>3.</td><td>FMS, Acropolis Inst of Tech & Research, Indore</td>
 <td>Director</td></tr> 
-<tr>><td>4.</td><td>International Institute of Professional Studies,
+<tr><td>4.</td><td>International Institute of Professional Studies,
 DAVV, Indore</td>
 <td>Former Director</td></tr>
 

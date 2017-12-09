@@ -28,20 +28,19 @@
         <td> Advertising Management, Media Planning, Marketing Strategies, Consumer Behaviour, International Marketing </td>
       </tr>
        
-        <tr>
-          <td ><b>Industry_Experience</b></td>
+        <tr><td><b>Experience</b></td>
            <td  id="height" ></td>
-          <td colspan="2" >-</td>
+          <td colspan="2" >15 Years</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
            <td id="height" ></td>
-          <td  colspan="2" >-</td>
+          <td  colspan="2" >+91-9827060602</td>
         </tr> 
         <tr>
           <td ><b>E-Mail id</b></td>
            <td  id="height" ></td>
-          <td  colspan="2" ><a href="mailto:navneetbhatiya@gmail.com">-
+          <td  colspan="2" ><a href="mailto:poojaiips@gmail.com">poojaiips@gmail.com
 </a> </td>
         </tr>   
          
@@ -91,18 +90,62 @@
     <br/>
 
       <div id="membership" class="answer_list table-responsive">
-      <pre>-</pre>
+      <table class="table table-striped">
+<tr><td>No Membership To Show</td></tr>
+</table>
       </div>
 
      <div id="research" class="answer_list" >
-            <table class="table table-striped">
+       <table class="table table-striped">
+               <tr><td>1.</td><td> She has published research papers in various reputed journals.</td></tr>
+                <tr><td>2.</td><td> Participated in various International and National Conferences.</td></tr>
+                <tr><td>3.</td><td>Supervised more than 200 students of M.B.A. final year for their dissertations 
+                  besides a large number of minor projects.</td></tr>
+                
+            
+           </table>     
+      </div>
+
+         <div id="responsibility" class="answer_list" >
+           <table class="table table-striped">
+           <caption>Responsibilities held</caption>
+          
+           
+            <tr><td>1.</td><td> Member, Task Force for promotion of value education in DAVV, Indore.</td></tr>
+                <tr><td>2.</td><td> Batch Facilitator of MBA (APR) 2 yrs course at IIPS,DAVV,Indore.</td></tr>
+                <tr><td>3.</td><td>Member, Internal Quality Assurance Cell at IIPS, DAVV, Indore.</td></tr>
+                <tr><td>4.</td><td>Coordinator, Disciplinary Committee at IIPS, DAVV, Indore.</td></tr>
+            
+           </table>
+         </div>
+
+         <div id="project" class="answer_list" >
+  <table class="table table-striped">
+<tr><td>No Project To Show</td></tr>
+</table>
+      </div>
+
+         <div id="presentation"  class="answer_list" >
+   <table class="table table-striped ">
+            <caption>
+              Dr.Pooja Jain has paticipated in following Refresher courses, Workshops, Seminars :             
+            </caption>
+            <tr><td>1.</td>   <td>Refresher course in management, Academic Staff College, DAVV, Indore, 3 weeks (17th June –7th July2011</td></tr> 
+            <tr><td>2.</td>   <td> Orientation course, Academic staff college, DAVV, indore from (30th July 08-26 Aug 08) </td></tr> 
+            <tr><td>3.</td>   <td>Have attended various workshops at IIPS and Other colleges in Indore.</td></tr>
+            
+      </table>
+      </div>
+
+         <div id="publication" class="answer_list"  style="height:400px; overflow-y: scroll;" >
+        <table class="table table-striped">
           
           <thead>
             <tr>
               <th>S.No.</th>
               <th>Published Date </th>
-              <th>Research  </th>
-              <th>Topic</th>
+              <th>Published At  </th>
+              <th>Title</th>
         
             </tr>
             </thead>
@@ -116,7 +159,8 @@
             </tr>
             <tr><td>2.</td>
                <td>-</td>
-               <td>  (Research Methodology and Nature of Proof: A Visit to Jainism and Patanjali, Arhat Vachan, Indore, Vol.19 No.3, 65-72 This article is lifted for publication an international book series, Education in India, Vol.7, Atlantic publishers, Delhi. (In Press)</td> 
+               <td>Research Methodology and Nature of Proof: A Visit to Jainism and Patanjali, Arhat Vachan, 
+                Indore, Vol.19 No.3, 65-72 This article is lifted for publication an international book series, Education in India, Vol.7, Atlantic publishers, Delhi. (In Press)</td> 
                <td>-</td>
             </tr>
  
@@ -138,9 +182,8 @@
             </tr>
             <tr><td>6.</td>
                 <td>April 2011</td>
-                <td> Jain, Pooja, Mishra P.N. , International Journal of Management Prudence, Vol: 3,Issue1 (ISSN: 0975-8496)
-                </td>Service Quality as antecedent of Customer Satisfaction: A study of State Bank of Indore.<td> 
-                </td>
+                <td> Jain, Pooja, Mishra P.N. , International Journal of Management Prudence, Vol: 3,Issue1 (ISSN: 0975-8496)</td>
+                <td>Service Quality as antecedent of Customer Satisfaction: A study of State Bank of Indore.</td>
             </tr>
  
            <tr><td>7.</td>
@@ -156,36 +199,6 @@
             </tr>
           </tbody>
           </table>
-      </div>
-
-         <div id="responsibility" class="answer_list" >
-           <table class="table table-striped">
-           <caption>Responsibilities held</caption>
-          
-           
-            <tr><td> Member, Task Force for promotion of value education in DAVV, Indore.</td></tr>
-                <tr><td> Batch Facilitator of MBA (APR) 2 yrs course at IIPS,DAVV,Indore.</td></tr>
-                <tr> <td>Member, Internal Quality Assurance Cell at IIPS, DAVV, Indore.</td></tr>
-
-                <tr><td>Coordinator, Disciplinary Committee at IIPS, DAVV, Indore.</td></tr>
-            
-           </table>
-         </div>
-
-         <div id="project" class="answer_list" >
-  <pre>-</pre>
-      </div>
-
-         <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
-      </div>
-
-         <div id="publication" class="answer_list" >
-  <pre>
-* Publications
-</pre>
       </div>
 
 

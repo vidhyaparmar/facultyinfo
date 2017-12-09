@@ -23,7 +23,7 @@
   
   </head>
   <body>
- 
+<?php include 'header.php';?>
 </br>
 </br>
 
@@ -45,15 +45,13 @@
           <li><a href="#" onclick="profile('<?php echo 'Manju_Suchdeo';?>')"><img src="./images/female.jpg" class="icon"></i>Ms. Manju Suchdeo</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Shaligram_Prajapat';?>')"><img src="./images/male.jpg" class="icon"></i>Dr. Shaligram Prajapat</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Poonam_Mangwani';?>')"><img src="./images/female.jpg" class="icon"></i>Ms. Poonam Mangwani</a></li>
-          <li><a href="#" onclick="profile('<?php echo 'Shailvi_Verma';?>')"><img src="./images/female.jpg" class="icon"></i>Ms. Shailvi Verma</a></li>
+
           <li><a href="#" onclick="profile('<?php echo 'Yasmin_Shaikh';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Yasmin Shaikh</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Rajesh_Verma';?>')"><img src="./images/male.jpg" class="icon"></i>Mr. Rajesh Verma</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Rahul_Singhai';?>')"><img src="./images/male.jpg" class="icon"></i>Dr. Rahul Singhai</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Basant_Namdeo';?>')"><img src="./images/male.jpg" class="icon"></i>Mr. Basant Namdeo</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Nitin_Nagar';?>')"><img src="./images/male.jpg" class="icon"></i>Mr. Nitin Nagar</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Rupesh_Sendre';?>')"><img src="./images/male.jpg" class="icon"></i>Mr. Rupesh Sendre</a></li>
-          <li><a href="#" onclick="profile('<?php echo 'Shraddha_Soni';?>')"><img src="./images/female.jpg" class="icon"></i>Ms. Shraddha Soni</a></li>
-          <li><a href="#" onclick="profile('<?php echo 'Kirti_Vijayawargiya';?>')"><img src="./images/female.jpg" class="icon"></i>Ms. Kirti Vijayvargiya</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Vivek_Shrivastava';?>')"><img src="./images/male.jpg" class="icon"></i>Dr. Vivek Shrivastava  </a></li>
           <li><a href="#" onclick="profile('<?php echo 'Pradeep_Jatav';?>')"><img src="./images/male.jpg" class="icon"></i>Mr. Pradeep K. Jatav</a></li>
        
@@ -85,8 +83,8 @@
           <li><a href="#" onclick="profile('<?php echo 'Muskan_Karamchandani';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Muskan Karamchandani</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Surendra_Malviya';?>')"><img src="./images/male.jpg" class="icon"></i>Dr. Surendra Malviya</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Kapil_Jain';?>')"><img src="./images/male.jpg" class="icon"></i>Dr. Kapil Jain</a></li>
-          <li><a href="#" onclick="profile('<?php echo 'Nirmala_Sawan';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Nirmala Sawan</a></li>
-          <li><a href="#" onclick="profile('<?php echo 'Shilpa_Bagdare';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Shilpa Bagdare</a></li>
+          
+          
           <li><a href="#" onclick="profile('<?php echo 'Navneet_Bhatia';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Navneet Bhatia</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Prerna_Kumar';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Prerna Kumar</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Naresh_Dembla';?>')"><img src="./images/male.jpg" class="icon"></i>Mr. Naresh Dembla</a></li>
@@ -94,7 +92,7 @@
           <li><a href="#" onclick="profile('<?php echo 'Ravi_Bunkar';?>')"><img src="./images/male.jpg" class="icon"></i>Mr. Ravi Bunkar</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Chetan_Raikwar';?>')"><img src="./images/male.jpg" class="icon"></i>Dr. Mr. Chetan Raikwar</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Neha_Chouhan';?>')"><img src="./images/female.jpg" class="icon"></i>Ms. Neha Chouhan</a></li>
-          <li><a href="#" onclick="profile('<?php echo 'Jyoti_Jain';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Jyoti Jain</a></li>
+          
         </ul>
       </li>
      

@@ -14,41 +14,41 @@
       <tr>  
         <td><b>Qualification</b> </td>
         <td id="height"> 
-        <td>Ph.D, M.E.(Comp. Eng.)</td>
+        <td>B.Sc(Electronics), MBA(APR),Ph.D.</td>
       </td>
     </tr>
       <tr> 
          <td    ><b>Designation</b></td>
          <td id="height"> 
-        <td      >Professor & Head</td>
+        <td      >Lecturer</td>
       </tr>
         <tr> 
         <td    ><b>Specialization</b></td>
           <td id="height"    > 
-        <td    >Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
+        <td    >-</td>
       </tr>
        
         <tr>
-          <td      ><b>Industry_Experience</b></td>
+          <td      ><b>Experience</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" > Three Year in Impetus Infotech.</td>
+          <td       colspan="2" > -</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
+          <td       colspan="2" > -</td>
         </tr> 
         <tr>
           <td      ><b>E-Mail id</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" ><a href="mailto:sanjay_tanwani@hotmail.com">sanjay_tanwani@hotmail.com</a> </td>
+          <td       colspan="2" ><a href="mailto:anshubhati@rediffmail.com">anshubhati@rediffmail.com</a> </td>
         </tr>   
          
        
         <tr>
           <td      ><b>Detailed Resume</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" >  <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Sanjay_Tanwani.pdf" >Click here...</a> </td>
+          <td       colspan="2" >  <a href="#" >Click here...</a> </td>
         </tr>  
       </table>
 
@@ -91,45 +91,38 @@
 
       <div id="membership" class="answer_list table-responsive">
   <table class="table table-striped">
-<tr><td> Engineering Graduate in Computer Engineering in 1999.</td>
-  <td>1234</td></tr> 
-<tr><td> Associate Member of Institution of Engineers.</td>
-<td>1245</td></tr>
-<tr><td>* received Bachelor degree in English Literature in 1995 .</td>
-<td>457</td></tr> 
-<tr><td>completed P.G.D.C.A</td>
-<td>424</td></tr> 
+<tr><td>No Membership To Show</td></tr>
 </table>
       </div>
 
      <div id="research" class="answer_list" >
-  <pre>
-* Researches
-</pre>
+  <table class="table table-striped">
+<tr><td>No Research To Show</td></tr>
+</table>
       </div>
 
          <div id="responsibility" class="answer_list" >
-  <pre>
-* Responsibilty
-</pre>
+  <table class="table table-striped">
+<tr><td>No Responsibility To Show</td></tr>
+</table>
       </div>
 
          <div id="project" class="answer_list" >
-  <pre>
-* Projects
-</pre>
+  <table class="table table-striped">
+<tr><td>No Project To Show</td></tr>
+</table>
       </div>
 
          <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
+  <table class="table table-striped">
+<tr><td>No Presentation To Show</td></tr>
+</table>
       </div>
 
          <div id="publication" class="answer_list" >
-  <pre>
-* Publications
-</pre>
+  <table class="table table-striped">
+<tr><td>No Publication To Show</td></tr>
+</table>
       </div>
 
 

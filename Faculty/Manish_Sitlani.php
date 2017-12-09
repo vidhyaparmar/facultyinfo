@@ -65,11 +65,12 @@
       
            
       </div>
-      
-      <div class="btn-group text-center">
-          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Researchs</a></button>
-            
+      <div class="btn-group text-center ">
+       
+          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Research</button>
+         
       </div>
+      
       <div class="btn-group text-center ">
        
           <button type="button" id="myresponsibility" name="answer" onclick="ShowDiv()" class="btn btn-primary">Responsibilities</button>
@@ -96,12 +97,12 @@
      No Membership to show
      </table>
       </div>
-      
-     <div id="research" class="answer_list" >
-        <table class="table table-striped">
-        No Researches to show
+      <div id="research"  class="answer_list" >
+         <table class="table table-striped">
+        No Resesrch to show
         </table>
       </div>
+     
 
          <div id="responsibility" class="answer_list" >
           <table class="table table-striped">
@@ -121,7 +122,7 @@
         </table>
       </div>
 
-         <div id="publication" class="answer_list" style="height:200px; overflow-y: scroll;">
+         <div id="publication" class="answer_list" style="height:400px; overflow-y: scroll;">
              <table class="table table-striped">
           <thead>
             <tr>
@@ -146,7 +147,7 @@
                </td>
             </tr>
              <tr><td>3.</td>
-                <td> 5 September 2012</td>
+                <td>  September 5 2012</td>
                 <td>  Srusti Management Review (ISSN No. 09974- 4724)</td>
                 <td> "Impact of Working Capital Management Practices of Indian Private Corporate Giants in New Millenium: An Exemplification of Reliance Industries Ltd."</td>
             </tr>
@@ -166,7 +167,7 @@
                 <td>  “Financial Education and Investment Behavior of Individuals in Indore; An Empirical Investigation”.</td>
             </tr>
              <tr><td>7.</td>
-                <td> 12, May 2012</td>
+                <td> 12 May 2012</td>
                 <td>  Golden Research Thoughts Journal (ISSN No. 2231-5063), associated and Indexed by EBSCO, USA</td>
                 <td>  “The Autonomy Dilemma; A Case Study”, Vol. 1</td>
             </tr>

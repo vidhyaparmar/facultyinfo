@@ -6,7 +6,7 @@
        <h3 style="margin-left:30px;"> <b>Dr. Ramesh Thakur</b></h3>
           <br/>
           <center><img class = "img-thumb" src="./images/Ramesh Thakur.jpg" /></center>
-        </div>
+        </div>s
 
     <div class="col-xs-4 col-md-7">
       <br/>
@@ -27,7 +27,7 @@
         <tr> 
         <td ><b>Specialization</b></td>
           <td id="height" > 
-        <td> Component Technology,Enterprises Computing Techniques,Obeject Oriented Analysis and Design.</td>
+        <td> Component Technology,Enterprises Computing Techniques,Obeject Oriented Analysis and Design</td>
       </tr>
        
         <tr>
@@ -38,7 +38,7 @@
         <tr>
           <td valign="top" ><b>Phone</b></td>
            <td id="height" ></td>
-          <td  colspan="2" > 9425963711
+          <td  colspan="2" > +919425963711
           </td>
         </tr> 
         <tr>
@@ -93,19 +93,18 @@
     <br/>
 
       <div id="membership" class="answer_list table-responsive">
-      <pre>
-* Membership    
-      </pre>
+      <table class="table table-striped">
+      <tr><td>No Membership To Show</td></tr></table>
       </div>
 
      <div id="research" class="answer_list" >
-        <pre>
-* Reserches    
-        </pre>
+        <table class="table table-striped">
+     <tr><td> No Research To Show</td></tr></table>
       </div>
 
          <div id="responsibility" class="answer_list" >
          <table class="table table-striped ">
+          <caption>Responsibility Held</caption>
             <tr><td>1.</td>
               <td>
               Reader at International Institute of Professional Studies, Devi Ahilya Vishwavidyalaya,
@@ -133,32 +132,30 @@
          </div>
 
          <div id="project" class="answer_list" >
-  <pre>
-* Projects
-</pre>
+  <table class="table table-striped">
+      <tr><td>No Project To Show</td></tr></table>
       </div>
 
          <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
+  <table class="table table-striped">
+     <tr><td> No Presentation To Show</td></tr></table>
       </div>
 
-         <div id="publication" class="answer_list" >
+         <div id="publication" class="answer_list"  >
   <table class="table table-striped">
            
           <thead>
             <tr>
               <th>S.No.</th>
               <th>Published Date </th>
-              <th>Research  </th>
-              <th>Topic</th>
+              <th>Published At  </th>
+              <th>Title</th>
         
             </tr>
             </thead>
             <tbody>
             <tr><td>1.</td>
-                <td>1-13,2010</td>
+                <td>13 JAN-2010</td>
                 <td> International Journal of Data Engineering (IJDE), Kuala Lumpur, Malaysia; ISSN:2180-1274, Refereed journal-Authors: Dr. Diwaker shukla, Dr. Rahul Singhai, Naresh-Dembla.
                 </td>
                 <td> "Some imputation methods to treat missing values in knowledge discovery in data warehouse, pp".
@@ -166,13 +163,13 @@
             </tr>
  
            <tr><td>2.</td>
-               <td>December 20-22, 2012</td>
-               <td>International-Conference held on  Global Issues and Trends in Health, Management and Technology</td> 
+               <td> 20-22 DEC-2012</td>
+               <td>International-Conference held on  Global Issues and Trends in Health, Management and Technology.</td> 
                <td> “E-BUSINESS AND  ELECTRONIC DATA INTERCHANGE”.
                </td>
             </tr>
              <tr><td>3.</td>
-                <td>December 20-22, 2012</td>
+                <td> 20-22 DEC-2012</td>
                 <td> International-Conference held  At IMS-DAVV; Nilesh Jain (Porwal), SDPS Women’s College, Indore; Naresh Dembla, International Institute of Professional Studies, DAVV, Indore; Kuntal L. Sharma, Usha Nagar, Indore.</td>
                 <td> "Global Issues and Trends in Health, Management and Technology".</td>
             </tr>
@@ -189,3 +186,4 @@
 
       <script src="./js/faculty_profile.js"></script>
       <link href="css/profile.css" rel="stylesheet">
+

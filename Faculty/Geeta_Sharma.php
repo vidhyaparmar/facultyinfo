@@ -25,21 +25,19 @@
         <tr> 
         <td    ><b>Specialization</b></td>
           <td id="height"    > 
-        <td>Banking, Insurance
-            Gen Financial Management
-            Management accounting</td>
+        <td>Banking, Insurance, Gen Financial Management,Management accounting</td>
       </tr>
        
         <tr>
           <td      ><b>Industry_Experience</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" >more than 25 Yrs. of  experience including Industry, Corporate training Teaching  - graduate & post graduate courses</td>
+          <td       colspan="2" >More than 25 Yrs. of  experience including Industry, Corporate training Teaching  - graduate & post graduate courses</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
            <td     id="height" ></td>
           <td       colspan="2" >Phone: 91-731-2461888, 2462087, 2461332, 2760101
-Fax - 91-731-2467888</td>
+</td>
         </tr> 
         <tr>
           <td      ><b>E-Mail id</b></td>
@@ -93,15 +91,14 @@ Fax - 91-731-2467888</td>
     <br/>
 
       <div id="membership" class="answer_list table-responsive">
- <pre>
-* Membership</pre>
+ <table class="table table-striped">
+     <tr><td> No Membership To Show</td></tr></table>
 
       </div>
 
      <div id="research" class="answer_list" >
-      <pre>
-* Research
-</pre>
+     <table class="table table-striped">
+     <tr><td> No Research To Show</td></tr></table>
       </div>
 
          <div id="responsibility" class="answer_list" >
@@ -162,9 +159,8 @@ Fax - 91-731-2467888</td>
         </div>
 
          <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
+ <table class="table table-striped">
+     <tr><td> No Presentation To Show</td></tr></table>
       </div>
 
          <div id="publication" class="answer_list" >
@@ -192,7 +188,7 @@ Fax - 91-731-2467888</td>
               </td>
            </tr>
       </table>    
-      <table class="table table-striped " style="height:200px; overflow-y: scroll;">
+      <table class="table table-striped " >
       <caption>Papers in national conference/seminar</caption>
             <tr>
               <td> i.   “Financial education and investment behavior of individuals in Indore;An empirical Investigation” 2nd national conference on Excellence in Higher Education held on June 28-30,2012 at Department of management studies, IIT Delhi. 

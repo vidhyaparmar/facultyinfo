@@ -25,9 +25,7 @@
         <tr> 
         <td    ><b>Specialization</b></td>
           <td id="height"    > 
-        <td    > Organizational Behavior ,      
-                 Emotional Intelligence,
-                 Human Resource Management  </td>
+        <td    > Organizational Behavior ,Emotional Intelligence,Human Resource Management  </td>
       </tr>
         
         <tr>
@@ -39,7 +37,7 @@
           <td valign="top"     ><b>Phone</b></td>
            <td  id="height" ></td>
           <td  colspan="2" >Phone: 91-731-2461888, 2462087, 2461332, 2760101
-Fax - 91-731-2467888</td>
+</td>
         </tr> 
         <tr>
           <td ><b>E-Mail id</b></td>
@@ -68,7 +66,7 @@ Fax - 91-731-2467888</td>
       </div>
       
       <div class="btn-group text-center">
-          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Research Projects </a></button>
+          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Research  </a></button>
             
       </div>
       <div class="btn-group text-center ">
@@ -89,7 +87,7 @@ Fax - 91-731-2467888</td>
     </div>
     <br/>
 
-      <div id="membership" class="answer_list table-responsive">
+      <div id="membership" class="answer_list table-responsive" style="height:300px; overflow-y: scroll;">
      <table class="table table-striped ">
           <caption>Workshops</caption>
             <tr><th>S.NO.</th>
@@ -166,7 +164,7 @@ At National Institute of Public Co-operation & Child Development- Western Region
       </table>
       </div>
 
-     <div id="research" class="answer_list" >
+     <div id="research" class="answer_list" style="height:300px; overflow-y: scroll;">
         <table class="table table-striped">
           
             <tr><td>1.</td>
@@ -201,7 +199,7 @@ At National Institute of Public Co-operation & Child Development- Western Region
 
          
      
-         <div id="presentation"  class="answer_list" >
+         <div id="presentation"  class="answer_list" style="height:300px; overflow-y: scroll;">
          <table class="table table-striped ">
           <caption>Dr. jyoti Sharma has conducted and organized various  FDPs/ Conferences/ Workshops.
                    Following are some of the list of Seminars conducted /Organized by Dr. Jyoti Sharma:
@@ -299,8 +297,8 @@ At National Institute of Public Co-operation & Child Development- Western Region
       </table>
       </div>
 
-         <div id="publication" class="answer_list" >
-   <table class="table table-striped " style="height:200px; overflow-y: scroll;">
+         <div id="publication" class="answer_list"  style="height:300px; overflow-y: scroll;">
+   <table class="table table-striped " >
       <caption>Research Papers in International Conferences  </caption>
             <tr>
               <td>
@@ -327,7 +325,7 @@ At National Institute of Public Co-operation & Child Development- Western Region
           </td><td>-</td></tr>
            </table>
      
- <table class="table table-striped " style="height:200px; overflow-y: scroll;">
+ <table class="table table-striped " >
       <caption>Research Papers in National Conferences  </caption>
             <tr>
               <td>

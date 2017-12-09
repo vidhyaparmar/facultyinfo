@@ -25,7 +25,7 @@
         <tr> 
         <td><b>Specialization</b></td>
           <td id="height"> 
-        <td></td>
+        <td>-</td>
       </tr>
        
         <tr>
@@ -91,21 +91,19 @@
       </br>
 
       <div id="membership" class="answer_list" >
-  <pre>
-* Membership
-</pre>
+  <table class="table table-striped">
+      <tr><td>No Membership To Show</td></tr></table>
       </div>
 
      <div id="research" class="answer_list" >
-  <pre>
-* Researches
-</pre>
+   <table class="table table-striped">
+      <tr><td>No Research To Show</td></tr></table>
       </div>
 
          <div id="responsibility" class="answer_list" >
-  <pre>
-* Presently he is Batch Facilitator of M.Tech. 6th semester.
-</pre>
+  
+ <table class="table table-striped">
+      <tr><td>Presently he is Batch Facilitator of M.Tech. 6th semester.</td></tr></table>
       </div>
 
          <div id="project" class="answer_list" >
@@ -123,16 +121,15 @@
       </div>
 
          <div id="presentation"  class="answer_list" >
-  <pre>
-* Attended the 2-week ISTE workshop program organized by National Mission on Education
- through ICT (MHRD) during 25th, june-04th, july, 2012.
-</pre>
+  
+<table class="table table-striped">
+      <tr><td>Attended the 2-week ISTE workshop program organized by National Mission on Education
+ through ICT (MHRD) during 25th, june-04th, july, 2012.</td></tr></table>
       </div>
 
          <div id="publication" class="answer_list" >
-  <pre>
-* Publications
-</pre>
+  <table class="table table-striped">
+      <tr><td>No Publication  To Show</td></tr></table>
       </div>
 
 

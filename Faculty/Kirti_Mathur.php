@@ -92,6 +92,7 @@
   <table class="table table-striped">
    <thead>
       <tr>
+        <th>S.NO.</th>
         <th>Membership No.</th>
         <th>Membership Name</th>
         
@@ -99,16 +100,19 @@
     </thead>
     <tbody>
       <tr>
+        <td>1.</td>
         <td>-</td>
         <td>Member Board of studies of Computer Sciences, DAVV, Indore.</td>
         
       </tr>
       <tr>
+        <td>2.</td>
         <td>A- 5243816</td>
         <td>Life member of Institution of Engineers (IEI), Kolkata, India.</td>
         
       </tr>
       <tr>
+        <td>3.</td>
         <td>120692.</td>
         <td>Life member of International Association of Engineers (IAENG).</td>
        
@@ -121,13 +125,14 @@
         <table class="table table-striped">
           <thead>
             <tr>
+              <th>S.NO.</th>
             <th>Research </th>
              <th>Description</th>
         
             </tr>
             </thead>
             <tbody>
-            <tr>
+            <tr><td>1.</td>
             <td>International Research publication in Journal</td>
             <td>Fatima Kirti Mathur “Tailoring KPA(Key Process Area) of CMM (Capability Maturity Model) to Accede with RUP (Rational Unified Process)” ISSN: 2277 – 9043) in the International Journal of Advanced Research in Computer Science and Electronics Engineering (IJARCSEE) Volume 1, Issue 7, September 2012.</td>
         
@@ -142,12 +147,13 @@
             <tr><td>1.</td>   
               <td>
               She has more than 14 years of Computer Science/IT  teaching  experience.
-              During this period she has served IIPS as multiple roles like:
+              
             </td>
           </tr>
             <tr>
               <td>2.</td>   
               <td>
+                During this period she has served IIPS as multiple roles like:
               Program In-charge of M.Tech(IT).
               Program In-charge of MCA.
           </td> 
@@ -180,21 +186,18 @@
          </div>
 
          <div id="project" class="answer_list" >
-  <pre>
-* Projects
-</pre>
+  <table class="table table-striped">
+      No Project To Show</table>
       </div>
 
          <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
+  <table class="table table-striped">
+      No Presentation To Show</table>
       </div>
 
          <div id="publication" class="answer_list" >
-  <pre>
-* Publications
-</pre>
+  <table class="table table-striped">
+      No Publication To Show</table>
       </div>
 
 

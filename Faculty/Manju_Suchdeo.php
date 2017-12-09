@@ -90,9 +90,8 @@
     <br/>
 
       <div id="membership" class="answer_list table-responsive">
-  <pre>
-* Membership
-</pre>
+   <table class="table table-striped">
+      <tr><td>No Membership To Show</td></tr></table>
       </div>
 
      <div id="research" class="answer_list" >
@@ -114,7 +113,7 @@ and  Distributed Computing.</td></tr>
       </table>
          </div>
 
-         <div id="project" class="answer_list" >
+         <div id="project" class="answer_list" style="height:400px; overflow-y: scroll;">
  <table class="table table-striped">
    <thead>
       <tr>
@@ -149,18 +148,17 @@ and  Distributed Computing.</td></tr>
 
          <div id="presentation"  class="answer_list" >
   <table class="table table-striped ">
-            <tr>
-              <th>Ms. Manju Sucdeo has paticipated in following Refresher courses, Workshops, Seminars :</th>              
-            </tr>
-            <tr><td>1.</td>   <td> A Participated in CSI - National Conference on IT : “COMPUTING-2005”</td></tr> 
-            <tr><td>2.</td>   <td> Participated in  e-Maze – National Conference on IT in 2002. </td></tr> 
             
+              <caption>Ms. Manju Sucdeo has paticipated in following Refresher courses, Workshops, Seminars.</caption>              
+            
+            <tr><td>1.</td>   <td> A Participated in CSI - National Conference on IT : “COMPUTING-2005”.</td></tr> 
+            <tr><td>2.</td>   <td> Participated in  e-Maze – National Conference on IT in 2002. </td></tr> 
+            </table>
       </div>
 
          <div id="publication" class="answer_list" >
-  <pre>
-* Publications
-</pre>
+   <table class="table table-striped">
+     <tr><td> No Publication To Show</td></tr></table>
       </div>
 
 

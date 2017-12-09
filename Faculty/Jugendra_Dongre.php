@@ -25,7 +25,7 @@
         <tr> 
         <td ><b>Specialization</b></td>
           <td id="height"    > 
-        <td    >Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
+        <td >Computational Intelligence,Theory of Computatio, Computer Graphics and Multimedia.</td>
       </tr>
        
         <tr>
@@ -35,8 +35,8 @@
         </tr>
         <tr>
           <td valign="top"><b>Phone</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
+           <td id="height" ></td>
+          <td colspan="2" > 91-731-2461888, 2462087, 2461332, 2760101</td>
         </tr> 
         <tr>
           <td ><b>E-Mail id</b></td>
@@ -99,9 +99,8 @@
       </div>
 
      <div id="research" class="answer_list" >
-  <pre>
-* Researches
-</pre>
+  <table class="table table-striped">
+      No Research To Show</table>
       </div>
 
          <div id="responsibility" class="answer_list" >
@@ -112,11 +111,12 @@
   
       </div>
 
-         <div id="project" class="answer_list" >
+         <div id="project" class="answer_list" style="height:400px; overflow-y: scroll;" >
   <table class="table table-striped">
    <thead>
       <tr>
-        <th>Project </th>
+        <th>S.NO.</th>
+        <th>Title </th>
         <th>Description</th>
         <th>Responsibility</th>
         
@@ -124,29 +124,30 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr><td>1.</td>
         <td>Payroll System </td>
         <td> It was the part of summer training in year 1998-1999.The main aim of this application to calculate the pay of employees according to their skilled 
-              (Unskilled, skilled, semi skilled)  working on contract basis at BHEL</td>
+              (Unskilled, skilled, semi skilled)  working on contract basis at BHEL.</td>
         <td>He has worked as Tech Lead having responsibilities of requirement analysis, technical design, coding.</td>
         
 
       </tr>
-      <tr>
+      <tr><td>2.</td>
       <td>Online Shopping  of  Books </td>
         <td> It was the part of final year project in year 1999-2000. The main aim of this site to purchase Computer related books through Internet.
-         A dictionary of books contains information about each book with its title, writer, publication, edition, price and discount. So that customer can select appropriate book(s) before adding it into the shopping cart. Automatic calculation of  price and checks for data integrity</td>
+         A dictionary of books contains information about each book with its title, writer, publication, edition, price and discount. So that customer
+          can select appropriate book(s) before adding it into the shopping cart. Automatic calculation of  price and checks for data integrity.</td>
         <td>He has worked as Tech Lead having responsibilities of requirement analysis, technical design, coding.</td>
        
       </tr>
-      <tr>
+      <tr><td>3.</td>
         <td>Payroll System </td>
-        <td> It was the part of Vth semester in year 1998-1999.The main aim of this application to calculate the pay of teachers according to their post teaching at  I.E.T. Lucknow </td>
+        <td> It was the part of Vth semester in year 1998-1999.The main aim of this application to calculate the pay of teachers according to their post teaching at  I.E.T. Lucknow.</td>
         <td>He has worked as Tech Lead having responsibilities of requirement analysis, technical design, coding.</td>
         
         
       </tr>
-      <tr>
+      <tr><td>4.</td>
         <td> An Expert System </td>
         <td>  It was the part of M.Tech project. Expert System identify an object i.e animal  
       and insect on the basis of coded knowledge. </td>
@@ -159,15 +160,13 @@
       </div>
 
          <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
+   <table class="table table-striped">
+      No Presentation To Show</table>
       </div>
 
          <div id="publication" class="answer_list" >
-  <pre>
-* Publications
-</pre>
+   <table class="table table-striped">
+      No Publication To Show</table>
       </div>
 
 

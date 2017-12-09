@@ -91,15 +91,13 @@
       </br>
 
       <div id="membership" class="answer_list" >
-  <pre>
-* Membership
-</pre>
+   <table class="table table-striped">
+      <tr><td>No Research To Show</td></tr></table>
       </div>
 
      <div id="research" class="answer_list" >
-  <pre>
-* Researches
-</pre>
+   <table class="table table-striped">
+      <tr><td>No Research To Show</td></tr></table>
       </div>
 
          <div id="responsibility" class="answer_list" >
@@ -120,10 +118,10 @@
             <tr><td>8.</td>   <td>Working as an active member of exam committee.</td></tr>   
             <td>9.</td>   <td>Facilitated Comprehensive viva in conduction of University’s exam.</td></tr>
             
-      </tsable>
+      </table>
       </div>
 
-         <div id="project" class="answer_list" >
+         <div id="project" class="answer_list" style="height:400px; overflow-y: scroll;">
   <table class="table table-striped">
     <caption> MAJOR Projects </caption>
    <thead>
@@ -203,7 +201,7 @@
 </table>
       </div>
 
-         <div id="presentation"  class="answer_list" >
+         <div id="presentation"  class="answer_list" style="height:400px; overflow-y: scroll;">
   <table class="table table-striped ">
     <caption>Dr.Vivek Shrivasta has paticipated in following Refresher courses, Workshops, Seminars:</caption>
             
