@@ -31,7 +31,8 @@
         <tr>
           <td      ><b>Industry_Experience</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" >More than 25 Yrs. of  experience including Industry, Corporate training Teaching  - graduate & post graduate courses</td>
+          <td       colspan="2" >More than 25 Yrs. of  experience including Industry, Corporate training Teaching  
+            - graduate & post graduate courses</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
@@ -49,7 +50,8 @@
         <tr>
           <td      ><b>Detailed Resume</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" >  <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxraXJ0aW1hdGh1cmlpcHNkYXZ2fGd4OjQyODU0YmY2NGY4NWVkNzc" >Click here...</a> </td>
+          <td colspan="2" >  <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxraXJ0aW1hd
+            Gh1cmlpcHNkYXZ2fGd4OjQyODU0YmY2NGY4NWVkNzc" >Click here...</a> </td>
         </tr>  
       </table>
 
@@ -60,13 +62,14 @@
      <div class="row">
       
       <div class="btn-group  text-center person">
-            <button type="button" id="mymembership" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> Memberships</a></button>
+            <button type="button" id="mymembership" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> 
+              Memberships</a></button>
       
            
       </div>
       
       <div class="btn-group text-center">
-          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Researchs</a></button>
+          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Researchs</button>
             
       </div>
       <div class="btn-group text-center ">
@@ -151,7 +154,8 @@
             <th>Duration</th>
         </tr>
             <tr>
-              <td>1. “ Internet Banking Service Quality Dimensions and its Impact on Customer Satisfaction: A Study in Context of Indore District in Madhya Pradesh”.</td>
+              <td>1. “ Internet Banking Service Quality Dimensions and its Impact on Customer Satisfaction:
+               A Study in Context of Indore District in Madhya Pradesh”.</td>
               <td> ICSSR New Delhi has approved a grant-in-aid of Rs 2.61 lacs for the study.</td>
               <td> March 2012 to Sept 2013</td>
            </tr>
@@ -163,18 +167,21 @@
      <tr><td> No Presentation To Show</td></tr></table>
       </div>
 
-         <div id="publication" class="answer_list" >
+         <div id="publication" class="answer_list" style="height:400px; overflow-y: scroll;" >
          <table class="table table-striped ">
           <caption>Book Review</caption>
             <tr><td>1.</td>
               <td>
-             A book titled“Performance appraisal of Urban Cooperative Banks” . (ISBN 978-93-80966-12-0) published by Sunrise Publication, financially supported by ICSSR, New Delhi.
+             A book titled“Performance appraisal of Urban Cooperative Banks” . (ISBN 978-93-80966-12-0) published b
+             y Sunrise Publication, financially supported by ICSSR, New Delhi.
             </td>
             <td>2012</td></tr>
-            <tr><td>2.</td><td>Chapter in a book titled “Innovations Trends and Practices in Indian Service Sector” . (ISBN 978-93-80834-74-0). Published by Indra Publishing House, Bhopal.  </td>
+            <tr><td>2.</td><td>Chapter in a book titled “Innovations Trends and Practices in Indian Service Sector” . 
+              (ISBN 978-93-80834-74-0). Published by Indra Publishing House, Bhopal.  </td>
             <td>2012</td> </tr>
           <tr><td>3.</td><td>
-            Paper is reprinted in Professional Reference Book titled "Co-operative Banking Indian and Global Perspectives” published by ICFAI University Press,     Kochi.      ISBN 978-81-314-1511-5
+            Paper is reprinted in Professional Reference Book titled "Co-operative Banking Indian and Global Perspectives” 
+            published by ICFAI University Press,     Kochi.      ISBN 978-81-314-1511-5
           </td>
           <td>2008</td></tr>
           
@@ -191,9 +198,12 @@
       <table class="table table-striped " >
       <caption>Papers in national conference/seminar</caption>
             <tr>
-              <td> i.   “Financial education and investment behavior of individuals in Indore;An empirical Investigation” 2nd national conference on Excellence in Higher Education held on June 28-30,2012 at Department of management studies, IIT Delhi. 
+              <td> i.   “Financial education and investment behavior of individuals in Indore;An empirical Investigation” 
+                2nd national conference on Excellence in Higher Education held on June 28-30,2012 at Department of management 
+                studies, IIT Delhi. 
             </td><td>June 28-30,2012 </td></tr>
-            <tr><td> ii   “Factors influencing customer preference for retail banks branch of Indore”  national conference on emerging trends in financial services held on 25-26 April 2008. at Medicaps Institutes of Technology and Management Rao.</td>
+            <tr><td> ii   “Factors influencing customer preference for retail banks branch of Indore”  national conference on
+             emerging trends in financial services held on 25-26 April 2008. at Medicaps Institutes of Technology and Management Rao.</td>
           <td>25-26 April 2008</td></tr>
           <tr><td> iii.   "Role of Smart Card in Effective e-governance.” IIPS, DAVV, Indore.</td>
             <td>-</td></tr>
@@ -205,58 +215,71 @@
          
              </table>   
 
-    <table class="table table-striped " style="height:200px; overflow-y: scroll;">
+    <table class="table table-striped " >
       <caption>Papers Presented in International conference/seminar</caption>
             <tr>
               <td> i.   “Predictors of consumer credit risk default at NBFCs: A Case Study” an International
                Conference on Technology Enabled Organizational Transformation to be held on 22nd & 23rd of June 2012 
-                at Shri Shankaracharya Institute of Technology and Management, Bhilai  in association with AICTE, New Delhi and Tata Consultancy Services. 
+                at Shri Shankaracharya Institute of Technology and Management, Bhilai  in association with AICTE, New Delhi and
+                 Tata Consultancy Services. 
             </td><td>22nd & 23rd of June 2012</td></tr>
-            <tr><td> ii “Mobile Phone Brand Preferences: A Case Study”, an International Conference on Technology Enabled Organizational Transformation to 
-              be held on 22nd & 23rd of June 2012  at Shri Shankaracharya Institute of Technology and Management, Bhilai  in association with AICTE, New Delhi
+            <tr><td> ii “Mobile Phone Brand Preferences: A Case Study”, an International Conference on Technology Enabled Organizational
+             Transformation to 
+              be held on 22nd & 23rd of June 2012  at Shri Shankaracharya Institute of Technology and Management, Bhilai  in association
+               with AICTE, New Delhi
                and Tata Consultancy Services.
               </td> 
           <td>2nd & 23rd of June 2012</td></tr>
-          <tr><td> iii.  “Evaluating and Mapping the Indian Urban Cooperative Banking Sector for better Survival.” Jointly hosted by Canadian Association for Studies
-           in Cooperation (CASC), Association of Cooperative Education (ACE), and International Cooperative Alliance (ICA) Research Forum, and organized by Centre for 
+          <tr><td> iii.  “Evaluating and Mapping the Indian Urban Cooperative Banking Sector for better Survival.” Jointly hosted by 
+            Canadian Association for Studies
+           in Cooperation (CASC), Association of Cooperative Education (ACE), and International Cooperative Alliance (ICA) Research Forum,
+            and organized by Centre for 
            the Study of Cooperatives, University of Saskatchewan, Saskatoon, Canada in May 07</td>
             <td>May--07</td></tr>
-          <tr><td> iv.  "Indian Urban Co-operative Banks: Consolidation…the need of the hour” at the 5th International Symposium on DEA held at the ‘Indian School of Business, 
-            Hyderabad’ in  Jan 2007.</td>
+          <tr><td> iv.  "Indian Urban Co-operative Banks: Consolidation…the need of the hour” at the 5th International Symposium on DEA
+           held at the ‘Indian School of Business,  Hyderabad’ in  Jan 2007.</td>
+
             <td>Jan 2007</td></tr>
          <tr><td> 
-            v. “Leadership through Performance: A DEA Analysis of Urban Co-operative Banks in Maharashtra”.  International Cooperative Alliance, Colombo, Srilanka in Aug 2006</td>
+            v. “Leadership through Performance: A DEA Analysis of Urban Co-operative Banks in Maharashtra”.  International Cooperative 
+            Alliance, Colombo, Srilanka in Aug 2006</td>
          <td>Aug 2006</td></tr>
          
     </table>
-       <table class="table table-striped " style="height:200px; overflow-y: scroll;">
+       <table class="table table-striped " >
       <caption>Refereed Research Journal Publications</caption>
             <tr>
               <td>
              i.  “Consumer Credit Default Predictors and Risk Modeling: A Case Study”Srusti Management Review, Vol- V, issue II, 
             </td><td>July-2012 </td></tr>
             <tr><td>
-              ii.   “Is gender affecting financial risk tolerance of academicians in higher learning institute of Indore”. Indian Journal of Scholarly      Research, (ISSN: 2278-8271) Vol :2 issue </td>
+              ii.   “Is gender affecting financial risk tolerance of academicians in higher learning institute of Indore”. Indian Journal 
+              of Scholarly Research, (ISSN: 2278-8271) Vol :2 issue </td>
           <td>8 March 2013</td></tr>
           <tr><td>
                iii.   “The Autonomy Dilemma: A case study”, Golden Research Thoughts, (ISSN- 2231-5063) Vol 1,Issue XI/ 
           </td><td>May 2012.</td></tr>
           <tr><td>
-         iv.   “Investment choice of occupants of Financial Services Industry: A Demographic Study”, published in ‘The ICFAI Journal of Behavioral Finance (ISSN 0972-9089)’, Vol. VIII, No 1,
-          </td><td>March 2011.</td></tr>
+         iv.   “Investment choice of occupants of Financial Services Industry: A Demographic Study”, published in ‘The ICFAI Journal of 
+         Behavioral Finance (ISSN 0972-9089)’, Vol. VIII, No 1,</td>
+         <td>March 2011.</td></tr>
          <tr><td> 
-            v.   “Evaluating and mapping the urban cooperative banking sector for better survival”, published in ‘Journal of Commerce & Management Thoughts’( ISSN 0975-623X)’, Volume II, No 4,</td>
+            v.   “Evaluating and mapping the urban cooperative banking sector for better survival”, published in ‘Journal of Commerce &
+             Management Thoughts’( ISSN 0975-623X)’, Volume II, No 4,</td>
          <td>Oct-Dec 2011.</td></tr>
          <tr><td>
-            vi.    “Exploring the dimensions of mobile banking service quality” published in “Review of Business and Technology Research Modern Technology and Management Institute, Inc. (MTMI) , USA  “( ISSN1941-9414) Vol 4 No 1 page 187,
-           </td>
+            vi.    “Exploring the dimensions of mobile banking service quality” published in “Review of Business and Technology Research 
+            Modern Technology and Management Institute, Inc. (MTMI) , USA 
+             “( ISSN1941-9414) Vol 4 No 1 page 187, </td>
            <td> July 2011</td></tr>
            <tr><td>
-             vii.    “A roadmap to achieve Financial inclusion in India through Branchless Banking”, Published in  ‘Indian Stream Research Journal (ISSN: 2230-7850)’ volume-I, issue- IV 
+             vii.    “A roadmap to achieve Financial inclusion in India through Branchless Banking”, Published in  ‘Indian Stream Research 
+             Journal (ISSN: 2230-7850)’ volume-I, issue- IV 
            </td>
            <td> May 2011. 2011</td></tr>
            <tr><td>
-            vi.    “Exploring the dimensions of mobile banking service quality” published in “Review of Business and Technology Research Modern Technology and Management Institute, Inc. (MTMI) , USA  “( ISSN1941-9414) Vol 4 No 1 page 187,
+            vi.    “Exploring the dimensions of mobile banking service quality” published in “Review of Business and Technology Research Modern
+             Technology and Management Institute, Inc. (MTMI) , USA  “( ISSN1941-9414) Vol 4 No 1 page 187,
            </td>
            <td> July 2011</td></tr>
            <tr><td>
@@ -264,7 +287,8 @@
            </td>
            <td> June 2010.</td></tr>
            <tr><td>
-               ix.   “DEA Analysis of Urban Cooperative Banks: A study of Urban Cooperative Banks of Maharashtra” Published in ‘The ICFAI Journal of Bank Management (ISSN 0972-6918)’, Vol. V, No 4,
+               ix.   “DEA Analysis of Urban Cooperative Banks: A study of Urban Cooperative Banks of Maharashtra” Published in ‘The ICFAI Journal
+                of Bank Management (ISSN 0972-6918)’, Vol. V, No 4,
            </td>
            <td>November 2006.</td></tr>
             <tr><td>
