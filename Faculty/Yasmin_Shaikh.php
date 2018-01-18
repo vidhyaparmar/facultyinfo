@@ -42,8 +42,7 @@
           <td ><b>E-Mail id</b></td>
            <td id="height" ></td>
           <td  colspan="2" ><a href="mailto:yasminshaikh01@yahoo.co.in">yasminshaikh01@yahoo.co.in</a> </td>
-        </tr>   
-         
+        </tr>        
           
         <tr>
           <td ><b>Detailed Resume</b></td>
@@ -59,8 +58,8 @@
      <div class="row">
       
       <div class="btn-group  text-center person" >
-            <button type="button" id="mymembership" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> Memberships</a></button>
-      
+            <button type="button" id="mymembership" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> Memberships</a>
+            </button>     
            
       </div>
       
